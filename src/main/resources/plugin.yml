@@ -1,0 +1,4 @@
+name: GrowATreeMC
+version: '1.0'
+main: com.davidarthurcole.growATreeMC.GrowATreeMC
+api-version: '1.21'
